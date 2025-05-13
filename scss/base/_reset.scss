@@ -21,6 +21,11 @@ a {
     text-decoration: none;
 }
 
+img {
+    object-fit: cover;
+    border: 0;
+}
+
 body {
     display: flex;
     flex-direction: column;
